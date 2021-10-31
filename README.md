@@ -22,8 +22,8 @@
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
    
-    1.In summer (May, June and July), there are more activities so they also had more successful cases. Thus, in summer, theater fundraise goal 
-      is easier to be achieved. But the average of failed cases is 41+-10 and it seems like it is very consistent through 12 months.
+    1.In summer (May, June and July), there are more activities so they also had more successful cases. Thus, in summer, theater fundraise goal is easier to be achieved. 
+      But the average of failed cases is 41+-10 and it seems like it is very consistent through 12 months.
 
     2.However, this result didn’t consider different sample size. If we considering the sample size, it is easier successful in May and easier failed in Dec. 
 
@@ -36,11 +36,9 @@
 
 - What are some limitations of this dataset?
   
-  	1.The outcomes of goal above $25000, its result is lack of credibility due to smaller sample    
-      size.
+  	1.The outcomes of goal above $25000, its result is lack of credibility due to smaller sample size.
 
-    2.Theater Outcomes Based on Launch Date can’t exactly describe which month is easier successful  
-      or failed due to different sample sizes.
+    2.Theater Outcomes Based on Launch Date can’t exactly describe which month is easier successful or failed due to different sample sizes.
 
 - What are some other possible tables and/or graphs that we could create?
   
