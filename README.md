@@ -15,11 +15,9 @@
     how to use the markdown to preview the result.
 
 ### Analysis of Outcomes Based on Launch Date  
-    ![Theater_Outcomes_vs_Launch](/Users/weiti/Assignment/module1/kickstarter-analysis/resource/Theater_Outcomes_vs_Launch.png)
-
+![Theater_Outcomes_vs_Launch](/Users/weiti/Assignment/module1/kickstarter-analysis/resource/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
-    ![image src="Outcomes_vs_Goals](Users/weiti/Assignment/module1/kickstarter-analysis/resource/image src="Outcomes_vs_Goals.png)
-
+![image src="Outcomes_vs_Goals](Users/weiti/Assignment/module1/kickstarter-analysis/resource/image src="Outcomes_vs_Goals.png)
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
