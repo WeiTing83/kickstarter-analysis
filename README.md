@@ -15,7 +15,7 @@
     how to use the markdown to preview the result.
 
 ### Analysis of Outcomes Based on Launch Date  
-![Theater_Outcomes_vs_Launch](https://github.com/WeiTing83/kickstarter-analysis/blob/main/resource/Outcomes_vs_Goals.png)
+![Theater_Outcomes_vs_Launch](https://github.com/WeiTing83/kickstarter-analysis/blob/main/resource/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
 ![Outcomes_vs_Goals](https://github.com/WeiTing83/kickstarter-analysis/blob/main/resource/Outcomes_vs_Goals.png)
 ## Results
