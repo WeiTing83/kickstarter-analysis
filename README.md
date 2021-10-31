@@ -46,7 +46,6 @@
   
     1.The outcomes versus how many dates to perform this case (Deadline-launch date)
 
-    2.We should do data comparison based on the same country because different countries have  
-      different currency values.
+    2.We should do data comparison based on the same country because different countries have different currency values.
     
     3.Base on different sample size, Theater_Outcomes_vs_Launch.png should be converted to ratio [(successful/grade total, failed/grade total) vs. launch date.]
